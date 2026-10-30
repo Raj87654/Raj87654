@@ -1,15 +1,15 @@
-&lt;h1 align="center"&gt;Hi, I'm Rajkumar M 👋&lt;/h1&gt;
+ <h1 align="center">Hi, I'm Rajkumar M 👋</h1>
 
-&lt;h3 align="center"&gt;AI &amp; Machine Learning Student | Python Developer | AI Enthusiast&lt;/h3&gt;
+<h3 align="center">AI &amp; Machine Learning Student | Python Developer | AI Enthusiast</h3>
 
-&lt;p align="center"&gt;
-  &lt;a href="https://rajkumar-portfolio-delta.vercel.app/"&gt;
-    &lt;img src="https://img.shields.io/badge/PORTFOLIO-Visit_My_Website-FF5722?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://github.com/Raj87654"&gt;
-    &lt;img src="https://img.shields.io/badge/GITHUB-Raj87654-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="https://rajkumar-portfolio-delta.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit_My_Website-FF5722?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/Raj87654">
+    <img src="https://img.shields.io/badge/GITHUB-Raj87654-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
@@ -29,39 +29,39 @@ Artificial Intelligence and Machine Learning student with a strong interest in m
 
 ### 💻 Programming Languages
 
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/&gt;
-  &lt;img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java"/&gt;
-  &lt;img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C"/&gt;
-  &lt;img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"/&gt;
-&lt;/p&gt;
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"/>
+</p>
 
 ### 📊 Machine Learning &amp; Data Science
 
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy"/&gt;
-  &lt;img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas"/&gt;
-  &lt;img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/&gt;
-  &lt;img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="Scikit-learn"/&gt;
-  &lt;img src="https://img.shields.io/badge/XGBoost-189F72?style=for-the-badge" alt="XGBoost"/&gt;
-&lt;/p&gt;
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/XGBoost-189F72?style=for-the-badge" alt="XGBoost"/>
+</p>
 
 ### 🤖 AI &amp; Agent Development
 
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/&gt;
-  &lt;img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph"/&gt;
-  &lt;img src="https://img.shields.io/badge/AI_Agents-8A2BE2?style=for-the-badge" alt="AI Agents"/&gt;
-  &lt;img src="https://img.shields.io/badge/MCP-6A5ACD?style=for-the-badge" alt="MCP"/&gt;
-&lt;/p&gt;
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/AI_Agents-8A2BE2?style=for-the-badge" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/MCP-6A5ACD?style=for-the-badge" alt="MCP"/>
+</p>
 
 ### ⚙️ Tools &amp; Platforms
 
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"/&gt;
-  &lt;img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/&gt;
-  &lt;img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code"/&gt;
-&lt;/p&gt;
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code"/>
+</p>
 
 ---
 
@@ -126,29 +126,29 @@ Machine learning project that recommends suitable crops based on agricultural an
 
 ## 📊 GitHub Statistics
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=Raj87654&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Rajkumar's GitHub Statistics"/&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raj87654&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Rajkumar's GitHub Statistics"/>
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj87654&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Programming Languages"/&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj87654&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Programming Languages"/>
+</p>
 
 ---
 
 ## 🌐 Let's Connect
 
-&lt;p&gt;
-  &lt;a href="https://github.com/Raj87654"&gt;
-    &lt;img src="https://img.shields.io/badge/GitHub-Raj87654-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://rajkumar-portfolio-delta.vercel.app/"&gt;
-    &lt;img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-FF5722?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="https://github.com/Raj87654">
+    <img src="https://img.shields.io/badge/GitHub-Raj87654-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://rajkumar-portfolio-delta.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-FF5722?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
-&lt;p align="center"&gt;
-  &lt;i&gt;Interested in AI, machine learning, Python development, and building intelligent solutions that solve real-world problems.&lt;/i&gt;
-&lt;/p&gt;
+<p align="center">
+  <i>Interested in AI, machine learning, Python development, and building intelligent solutions that solve real-world problems.</i>
+</p>
