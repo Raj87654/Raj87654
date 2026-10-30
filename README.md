@@ -1,4 +1,5 @@
- <h1 align="center">Hi, I'm Rajkumar M 👋</h1>
+
+<h1 align="center">Hi, I'm Rajkumar M 👋</h1>
 
 <h3 align="center">AI & Machine Learning Student | Python Developer | AI Enthusiast</h3>
 
@@ -52,6 +53,7 @@ Artificial Intelligence and Machine Learning student with a strong interest in m
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/AI_Agents-8A2BE2?style=for-the-badge" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/MCP-6A5ACD?style=for-the-badge" alt="MCP"/>
 </p>
 
 ### ⚙️ Tools & Platforms
@@ -66,7 +68,34 @@ Artificial Intelligence and Machine Learning student with a strong interest in m
 
 ## 🚀 Featured Projects
 
-### 🌾 Crop Recommendation System
+### 🌾 1. AjraSakha – AI-Powered Agricultural Assistant
+
+Contributed to AjraSakha, an AI-powered agricultural platform developed at Vicharanashala, IIT Ropar, focused on providing intelligent agricultural assistance.
+
+- Worked on integrating an ML-based crop recommendation feature using soil and environmental parameters.
+- Explored XGBoost, AI agent workflows, Model Context Protocol (MCP), and Golden Dataset integration.
+
+🔗 [View Pull Request #1168](https://github.com/vicharanashala/ajrasakha/pull/1168)
+
+### 🏥 2. Medical Appointment Agent – LangGraph
+
+Developed an AI-based medical appointment agent using LangGraph to explore intelligent agent workflows and automated task handling.
+
+- Explored graph-based workflow orchestration and agent state management.
+- Focused on structured execution and intelligent routing using LangGraph.
+
+🔗 [View Medical Appointment Agent](https://github.com/Raj87654/Medical-Appointment-Agent-Langgraph-)
+
+### 📚 3. Library Management System
+
+Developed a Library Management System to organize and manage library-related operations.
+
+- Implemented application functionality for managing books and library records.
+- Explored software development concepts and structured application design.
+
+🔗 [View Library Management System](https://github.com/Raj87654/library-management-system-)
+
+### 🌱 4. Crop Recommendation System
 
 Machine learning project that recommends suitable crops based on agricultural and environmental parameters.
 
@@ -75,7 +104,7 @@ Machine learning project that recommends suitable crops based on agricultural an
 
 🔗 [View Project on GitHub](https://github.com/Raj87654/-Crop-Recommendation)
 
-### 🤖 AI Agent & Tool-Based Automation
+### 🤖 5. AI Agent & Tool-Based Automation
 
 Developed a command-line AI agent with tool routing and structured workflow execution.
 
@@ -84,15 +113,6 @@ Developed a command-line AI agent with tool routing and structured workflow exec
 
 🔗 [View Skill First Labs Assignment](https://github.com/Raj87654/Assignment-for-Skill-First-Labs)
 
-### 🧩 CSS Parser
-
-Built a Python utility to parse CSS files and extract selectors, property names, and values into structured data.
-
-- Used the `tinycss2` library for CSS parsing.
-- Converted parsed CSS information into Python dictionaries and JSON.
-
-🔗 [View Source Code](https://github.com/Raj87654/Assignment-for-Skill-First-Labs)
-
 ---
 
 ## 💼 Experience
@@ -100,7 +120,8 @@ Built a Python utility to parse CSS files and extract selectors, property names,
 ### AI & Software Engineering Intern — Vicharanashala, IIT Ropar
 
 - Worked on AI-based solutions involving machine learning and intelligent agent development.
-- Explored agent workflows, tool integration, and XGBoost-based machine learning as part of project development.
+- Contributed to integrating an ML-based crop recommendation feature into AjraSakha.
+- Explored agent workflows, tool integration, MCP, and XGBoost-based machine learning.
 
 ---
 
